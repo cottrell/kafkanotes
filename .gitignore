@@ -1,0 +1,8 @@
+config/
+libs/
+logs/
+bin/
+kp/
+LICENSE
+NOTICE
+site-docs/
